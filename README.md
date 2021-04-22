@@ -53,3 +53,7 @@ An image recognition tool: the spelling of drugs’ names could be tricky, if th
 ## Acknowledgments
 
 I thank for inspiration my brother-in-law, a talented and scrupulous doctor and the pediatrician that handles my children. 
+
+Image 
+[Luke fildes, il dottore, ante 1891, 02.jpg](https://upload.wikimedia.org/wikipedia/commons/7/7f/Luke_fildes%2C_il_dottore%2C_ante_1891%2C_02.jpg) / [CC BY 3.0]
+
