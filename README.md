@@ -1,6 +1,6 @@
 # Galenus-AI
 
-AI assistant for doctors
+Building AI course project: AI assistant for doctors
 
 
 ## Summary
