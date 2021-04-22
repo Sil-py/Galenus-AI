@@ -7,10 +7,11 @@ AI assistant for doctors
 
 A chatbot helps family doctors to manage routinary requests.
 
+![Cat](https://upload.wikimedia.org/wikipedia/commons/7/7f/Luke_fildes%2C_il_dottore%2C_ante_1891%2C_02.jpg)
 
 ## Background
 
-Family doctors are expected to handle most frequent illnesses and to send patient to specialists or to a hospital for more complex cases. 
+Family doctors are expected to handle most frequent illnesses and to send patients to specialists or to a hospital for more complex cases. 
 Unfortunately, they must spend a great deal of time in answering to very routinary requests. Some doctors hire a human assistant to filter such requests (which of course is a pretty expensive solution), others struggle with voicemail, sms and whatsapp messaging. 
 A chatbot could filter the simplest requests without the doctor having to phisically answer the phone or digit the messages, saving a lot of time and helping doctors to focus on more complex cases. 
 (I refer to the situation in Italy, but I think that could be the case in other countries, too).
@@ -21,7 +22,7 @@ A chatbot could filter the simplest requests without the doctor having to phisic
 At a first stage, the chatbot could handle two sets of simple cases:
 * Appointments: the patient asks to see the doctor (eventually mentioning some preferred times or days) and the chatbot offers the first availability.
 The appointment is automatically filled into the doctor’s agenda and confirmed to the patient via sms. The chatbot could also manage cancellations.
-* Prescritions: the patient ask for prescrition of some drugs he/she routinary takes (e. g. birth control pill) or needed for most common illnesses (e. g. aspirin). The chatbot could be trained to ask some questions (How old is the patient? Does he/she take other drugs?). The doctor would find a list of required prescriptions; the decision whether it is correct to prescribe the drug or not (based on the information the patient gives to the chatbot) still lies with the doctor. The prescrition could include some instructions on how often or how to take th drug (as it already is now with “manual” prescritions: “Take a pill three times a day before meals”). Some drugs should be excluded from this method if they require special recommendation or supervision. The doctor could also get an alert if the patient’s request is anomalous (e.g. a patient that asks too frequently). In all this cases the patient receives an sms where he is advised to have a conversation with the doctor.
+* Prescritions: the patient ask for prescrition of some drugs he/she routinary takes (e. g. birth control pill) or needed for most common illnesses (e. g. aspirin). The chatbot could be trained to ask some questions (How old is the patient? Does he/she take other drugs?). The doctor would find a list of required prescriptions; the decision whether it is correct to prescribe the drug or not (based on the information the patient gives to the chatbot) is the doctor's one. The prescrition could include some instructions on how often or how to take th drug (as it already is now with “manual” prescritions: “Take a pill three times a day before meals”). Some drugs should be excluded from this method if they require special recommendation or supervision. The doctor could also get an alert if the patient’s request is anomalous (e.g. a patient that asks too frequently). In all this cases the patient receives an sms where he is advised to have a conversation with the doctor.
 
 People affected by this solution are family doctors and patients, so potentially it is a very large set of very different people:
 * Doctors could be very much relieved by a solution that saves their time. 
