@@ -7,7 +7,6 @@ AI assistant for doctors
 
 A chatbot helps family doctors to manage routinary requests.
 
-![Cat](https://upload.wikimedia.org/wikipedia/commons/7/7f/Luke_fildes%2C_il_dottore%2C_ante_1891%2C_02.jpg)
 
 ## Background
 
