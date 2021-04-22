@@ -7,6 +7,7 @@ AI assistant for doctors
 
 A chatbot helps family doctors to manage routinary requests.
 
+![Doctor](https://github.com/Sil-py/Galenus-AI/blob/main/Luke_fildes%2C_il_dottore%2C_ante_1891%2C_02.jpg)
 
 ## Background
 
